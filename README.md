@@ -9,3 +9,6 @@
 
 ## How to update token info
 - Access to: scripts/deploy.ts
+
+## Video deploy
+- https://drive.google.com/file/d/1zbKq1oaUZZXqSbYSZE5iJFszcWWeO9j4/view?usp=sharing
